@@ -1,0 +1,30 @@
+
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+.navbar .container-fluid .navbar-brand{
+    color: #da796c;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: rgb(255, 255, 255)!important;
+    
+}
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #95e6e6;
+  color: rgb(27, 26, 26) !important;}
+
+.card{
+    
+    width:300px;
+    border: none;
+    margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+  
